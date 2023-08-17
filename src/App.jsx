@@ -18,7 +18,8 @@ function App() {
   console.log(url)
 
 useEffect(() => {
-  fetchApiConfig()
+  fetchApiConfig();
+  generesCall();
 },[])
 
 const fetchApiConfig = () => {
@@ -35,6 +36,26 @@ const fetchApiConfig = () => {
   .catch((err) => {
     console.log(err)
   })
+}
+
+//* Code for call genere api of two types TV and MOVIES using Promise.all
+const generesCall = async () => {
+  let promises = []
+  let endPoints = ["tv","movie"]
+  let allGeneres = {}
+
+  endPoints.forEach((url) => {
+    promises.push(fetchDataFromApi(`/genre/${url}/list`)) 
+  })
+
+  const data = await Promise.all(promises)
+  data.map(({ genres }) => {
+    return genres.map((item) => (allGeneres[item.id] = item))
+  })
+
+  //* storing data in a store
+
+  dispatch(getGenres(allGeneres))
 }
 
   return (
