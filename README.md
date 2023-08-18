@@ -1,8 +1,25 @@
-# React + Vite
+# Movie-Base
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to Movie-Base! This is a React project that serves as a movie information platform. It utilizes data from the TMDB API to provide users with details about various movies.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+
+- [Movie-Base](#movie-base)
+  - [Table of Contents](#table-of-contents)
+  - [About the Project](#about-the-project)
+  - [Features](#features)
+
+## About the Project
+
+Movie-Base is a React project that enables users to browse and search for movies using data fetched from the TMDB API. It provides a user-friendly interface for viewing movie details, summaries, and other relevant information.
+
+## Features
+
+- Search for movies by title, genre, and more.
+- Browse through a collection of movie listings.
+- View detailed information about each movie, including synopsis, cast, and reviews.
+- Responsive design for seamless usage across devices.
+
+
+
