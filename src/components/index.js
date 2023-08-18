@@ -7,6 +7,8 @@ import Carousel from './carousel/Carousel'
 import CircleRating from './circleRating/CircleRating'
 import Genres from './genres/Genres'
 import VideoPopup from './videoPopup/VideoPopup'
+import MovieCard from './moviecard/MovieCard'
+import Spinner from './spinner/Spinner'
 
 
 export {
@@ -18,5 +20,7 @@ export {
     Carousel,
     CircleRating,
     Genres,
-    VideoPopup
+    VideoPopup,
+    MovieCard,
+    Spinner
 }
