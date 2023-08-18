@@ -2,7 +2,7 @@ import { useState } from "react";
 
 import "./style.scss";
 
-import { PlayIcon } from "../playIcon";
+import { PlayIcon } from '../../../pages'
 
 import { VideoPopup, Img, ContentWrapper} from '../../../components'
 
