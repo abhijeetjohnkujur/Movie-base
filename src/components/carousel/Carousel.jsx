@@ -16,7 +16,7 @@ import {CircleRating, Genres} from '../index'
 
 import "./style.scss";
 
-const Carousel = ({data, loading, endpoint, title }) => {
+const Carousel = ({data, loading, endpoint, title, error }) => {
     const carouselContainer = useRef()
     const { url } = useSelector((state) => state.home)
     const navigate = useNavigate()
