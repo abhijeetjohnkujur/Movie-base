@@ -1,5 +1,5 @@
 # Movie-Base
-
+![Movie-base Main Search Page](public/ss1.png)
 ## Table of Contents
 
 - [Movie-Base](#movie-base)
