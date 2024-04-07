@@ -21,5 +21,7 @@ Movie-Base is a React project that enables users to browse and search for movies
 - View detailed information about each movie, including synopsis, cast, and reviews.
 - Responsive design for seamless usage across devices.
 
+## Installation
 
+- After cloning the repoistery
 
