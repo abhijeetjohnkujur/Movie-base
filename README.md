@@ -8,6 +8,7 @@
   - [Features](#features)
   - [Installation](#installation)
   - [Technologies Used](#technologies-Used)
+  - [Future Development](#future-Development)
 
 ## About the Project
 
