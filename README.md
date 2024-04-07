@@ -6,6 +6,7 @@
   - [Table of Contents](#table-of-contents)
   - [About the Project](#about-the-project)
   - [Features](#features)
+  - [Installation](#installation)
 
 ## About the Project
 
