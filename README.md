@@ -8,7 +8,6 @@
   - [Features](#features)
   - [Installation](#installation)
   - [Technologies Used](#technologies-Used)
-  - 
 
 ## About the Project
 
@@ -38,4 +37,9 @@ Movie-base was designed to streamline the movie discovery process, combining a v
 - Tailwind CSS
 - TMDB API
 - JavaScript
+
+## Future Development
+
+- Implement user authentication for saving favorite movies.
+- Personalized Database
 
