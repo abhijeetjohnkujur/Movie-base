@@ -1,7 +1,5 @@
 # Movie-Base
 
-Movie-base was designed to streamline the movie discovery process, combining a visually appealing UI with intuitive navigation and filtering tools. I aimed to create an experience that simplifies finding the perfect movie to watch, making it enjoyable for movie enthusiasts.
-
 ## Table of Contents
 
 - [Movie-Base](#movie-base)
@@ -11,7 +9,9 @@ Movie-base was designed to streamline the movie discovery process, combining a v
 
 ## About the Project
 
-Movie-Base is a React project that enables users to browse and search for movies using data fetched from the TMDB API. It provides a user-friendly interface for viewing movie details, summaries, and other relevant information.
+
+Movie-base was designed to streamline the movie discovery process, combining a visually appealing UI with intuitive navigation and filtering tools. I aimed to create an experience that simplifies finding the perfect movie to watch, making it enjoyable for movie enthusiasts.
+
 
 ## Features
 
