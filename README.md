@@ -7,6 +7,8 @@
   - [About the Project](#about-the-project)
   - [Features](#features)
   - [Installation](#installation)
+  - [Technologies Used](#technologies-Used)
+  - 
 
 ## About the Project
 
@@ -25,5 +27,15 @@ Movie-base was designed to streamline the movie discovery process, combining a v
 
 ## Installation
 
-- After cloning the repoistery
+- Clone the repository: git clone https://github.com/abhijeetjohnkujur/Movie-base.git
+- Navigate to the project directory: cd Movie-base
+- Install dependencies: npm install
+- Start the development server: npm start
+
+## Technologies Used
+
+- React.js
+- Tailwind CSS
+- TMDB API
+- JavaScript
 
