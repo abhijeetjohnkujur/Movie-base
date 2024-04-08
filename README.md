@@ -1,4 +1,4 @@
-# Movie-Base
+![Movie-base Main Logo](public/movie-logo.png)
 ![Movie-base Main Search Page](public/ss1.png)
 ## Table of Contents
 
